@@ -19,7 +19,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I am button</source>
+        <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
